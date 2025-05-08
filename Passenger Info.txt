@@ -1,0 +1,31 @@
+PASSENGER INFORMATION
+***********************************
+
+<<<PASSENGER 1>>>
+Name: Farah Aqilah
+IC Number: 021684644444
+Gender: Female
+Age: 21
+Origin: Padang Besar
+Destination: Alor Setar
+Date: 28 Jul 2023
+Package Type: Single Journey
+Category: Person with Disabilities
+Total Price: RM 4.85
+
+***********************************
+
+<<<PASSENGER 2>>>
+Name: Isa
+IC Number: 123456789123
+Gender: Male
+Age: 11
+Origin: Padang Besar
+Destination: Anak Bukit
+Date: 03 Aug 2023
+Package Type: Return Journey
+Category: Normal User
+Total Price: RM 10.40
+
+***********************************
+
